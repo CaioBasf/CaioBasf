@@ -1,1 +1,1 @@
-!(img/TelaInicialReadme.jpeg)
+!<img src="img\TelaInicialReadme.jpeg" />
